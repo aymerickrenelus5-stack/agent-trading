@@ -1,0 +1,2529 @@
+{
+ "actives": {
+  "NVDA": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "AMD": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "AVGO": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "MRVL": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "MU": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "INTC": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "QCOM": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TXN": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ADI": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MPWR": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "LRCX": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "AMAT": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "KLAC": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ARM": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ON": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NXPI": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MCHP": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "COHR": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "LITE": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "CIEN": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "ANET": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "SMCI": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "CRDO": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ALAB": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "WDC": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "STX": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SNDK": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "FLEX": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "CLS": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "JBL": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "VRT": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "TER": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ENTG": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TSM": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "2454.TW": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "2317.TW": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "2308.TW": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "3711.TW": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "2382.TW": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "6669.TW": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "005930.KS": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "000660.KS": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SKHY": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "8035.T": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "6920.T": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "6857.T": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "285A.T": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "6981.T": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "6723.T": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "7735.T": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "6146.T": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "4062.T": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "0981.HK": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "688256.SS": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ASML.AS": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ASM.AS": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "BESI.AS": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "IFX.DE": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "STMPA.PA": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SOI.PA": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NOD.OL": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SIVE.ST": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Europe",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "AIXA.DE": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MELE.BR": {
+   "secteur": "Semi-conducteurs & hardware IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MSFT": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "ORCL": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "PLTR": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "CRM": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NOW": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SNOW": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ADBE": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "DDOG": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NET": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MDB": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "APP": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "CRWV": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "NBIS": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "INTU": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "WDAY": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TEAM": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "HUBS": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "IBM": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ADSK": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TTD": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "PATH": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SOUN": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TEM": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ESTC": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "GTLB": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "IOT": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "CSU.TO": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SNPS": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "CDNS": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SAP.DE": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "CAP.PA": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "DSY.PA": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NEM.DE": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SGE.L": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "REL.L": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "WKL.AS": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "6702.T": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "6701.T": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "9984.T": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "INFY": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TCS.NS": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "HCLTECH.NS": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MNDY": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Moyen-Orient & Afrique",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "WIX": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Moyen-Orient & Afrique",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "XRO.AX": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Océanie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "WTC.AX": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Océanie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "GOOGL": {
+   "secteur": "Internet & plateformes",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "META": {
+   "secteur": "Internet & plateformes",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "AMZN": {
+   "secteur": "Internet & plateformes",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "AAPL": {
+   "secteur": "Internet & plateformes",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "NFLX": {
+   "secteur": "Internet & plateformes",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SHOP": {
+   "secteur": "Internet & plateformes",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "UBER": {
+   "secteur": "Internet & plateformes",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "DASH": {
+   "secteur": "Internet & plateformes",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ABNB": {
+   "secteur": "Internet & plateformes",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "RDDT": {
+   "secteur": "Internet & plateformes",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SPOT": {
+   "secteur": "Internet & plateformes",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "PRX.AS": {
+   "secteur": "Internet & plateformes",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "0700.HK": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "BABA": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "BIDU": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "PDD": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "JD": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "3690.HK": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "1810.HK": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "1024.HK": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SONY": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "035420.KS": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SE": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "GRAB": {
+   "secteur": "Internet & plateformes",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MELI": {
+   "secteur": "Internet & plateformes",
+   "region": "Amérique latine",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NPN.JO": {
+   "secteur": "Internet & plateformes",
+   "region": "Moyen-Orient & Afrique",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "CRWD": {
+   "secteur": "Cybersécurité",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "PANW": {
+   "secteur": "Cybersécurité",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ZS": {
+   "secteur": "Cybersécurité",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "FTNT": {
+   "secteur": "Cybersécurité",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "S": {
+   "secteur": "Cybersécurité",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "OKTA": {
+   "secteur": "Cybersécurité",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "QLYS": {
+   "secteur": "Cybersécurité",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TENB": {
+   "secteur": "Cybersécurité",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "VRNS": {
+   "secteur": "Cybersécurité",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "CHKP": {
+   "secteur": "Cybersécurité",
+   "region": "Moyen-Orient & Afrique",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "V": {
+   "secteur": "Fintech & crypto",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MA": {
+   "secteur": "Fintech & crypto",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "PYPL": {
+   "secteur": "Fintech & crypto",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "XYZ": {
+   "secteur": "Fintech & crypto",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "COIN": {
+   "secteur": "Fintech & crypto",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "HOOD": {
+   "secteur": "Fintech & crypto",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MSTR": {
+   "secteur": "Fintech & crypto",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SOFI": {
+   "secteur": "Fintech & crypto",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "AFRM": {
+   "secteur": "Fintech & crypto",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "IBKR": {
+   "secteur": "Fintech & crypto",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ADYEN.AS": {
+   "secteur": "Fintech & crypto",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NU": {
+   "secteur": "Fintech & crypto",
+   "region": "Amérique latine",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "IONQ": {
+   "secteur": "Quantique & espace",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "RGTI": {
+   "secteur": "Quantique & espace",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "QBTS": {
+   "secteur": "Quantique & espace",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "RKLB": {
+   "secteur": "Quantique & espace",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ASTS": {
+   "secteur": "Quantique & espace",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "VST": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "CEG": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "GEV": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "ETN": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "PWR": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NRG": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TLN": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "OKLO": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SMR": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "CCJ": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "BE": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "EQIX": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "DLR": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SIE.DE": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ENR.DE": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SU.PA": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "PRY.MI": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ABBN.SW": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "LR.PA": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NEX.PA": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "6501.T": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "267260.KS": {
+   "secteur": "Énergie & infrastructures IA",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ROK": {
+   "secteur": "Robotique & automatisation",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SYM": {
+   "secteur": "Robotique & automatisation",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ZBRA": {
+   "secteur": "Robotique & automatisation",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "6954.T": {
+   "secteur": "Robotique & automatisation",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "6861.T": {
+   "secteur": "Robotique & automatisation",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "6506.T": {
+   "secteur": "Robotique & automatisation",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "6273.T": {
+   "secteur": "Robotique & automatisation",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TMUS": {
+   "secteur": "Réseaux & télécoms",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NOK": {
+   "secteur": "Réseaux & télécoms",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ERIC": {
+   "secteur": "Réseaux & télécoms",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "BHARTIARTL.NS": {
+   "secteur": "Réseaux & télécoms",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "RR.L": {
+   "secteur": "Aéronautique & défense",
+   "region": "Europe",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "SAF.PA": {
+   "secteur": "Aéronautique & défense",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "AIR.PA": {
+   "secteur": "Aéronautique & défense",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "RHM.DE": {
+   "secteur": "Aéronautique & défense",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "BA.L": {
+   "secteur": "Aéronautique & défense",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "HO.PA": {
+   "secteur": "Aéronautique & défense",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "LDO.MI": {
+   "secteur": "Aéronautique & défense",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MTX.DE": {
+   "secteur": "Aéronautique & défense",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "GE": {
+   "secteur": "Aéronautique & défense",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "RTX": {
+   "secteur": "Aéronautique & défense",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "LMT": {
+   "secteur": "Aéronautique & défense",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "HWM": {
+   "secteur": "Aéronautique & défense",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "AXON": {
+   "secteur": "Aéronautique & défense",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "012450.KS": {
+   "secteur": "Aéronautique & défense",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "7011.T": {
+   "secteur": "Aéronautique & défense",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "EMBJ": {
+   "secteur": "Aéronautique & défense",
+   "region": "Amérique latine",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "LLY": {
+   "secteur": "Santé",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ISRG": {
+   "secteur": "Santé",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "UNH": {
+   "secteur": "Santé",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ABBV": {
+   "secteur": "Santé",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "JNJ": {
+   "secteur": "Santé",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "VRTX": {
+   "secteur": "Santé",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "REGN": {
+   "secteur": "Santé",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "BSX": {
+   "secteur": "Santé",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TMO": {
+   "secteur": "Santé",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NVO": {
+   "secteur": "Santé",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "AZN": {
+   "secteur": "Santé",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NOVN.SW": {
+   "secteur": "Santé",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ROG.SW": {
+   "secteur": "Santé",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SAN.PA": {
+   "secteur": "Santé",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ARGX": {
+   "secteur": "Santé",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "4568.T": {
+   "secteur": "Santé",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TSLA": {
+   "secteur": "Automobile",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "GM": {
+   "secteur": "Automobile",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "RACE": {
+   "secteur": "Automobile",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "STLAM.MI": {
+   "secteur": "Automobile",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "RNO.PA": {
+   "secteur": "Automobile",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MBG.DE": {
+   "secteur": "Automobile",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "BMW.DE": {
+   "secteur": "Automobile",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "VOW3.DE": {
+   "secteur": "Automobile",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TM": {
+   "secteur": "Automobile",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "1211.HK": {
+   "secteur": "Automobile",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "005380.KS": {
+   "secteur": "Automobile",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "LI": {
+   "secteur": "Automobile",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "XPEV": {
+   "secteur": "Automobile",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MC.PA": {
+   "secteur": "Luxe & consommation",
+   "region": "Europe",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "RMS.PA": {
+   "secteur": "Luxe & consommation",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "CFR.SW": {
+   "secteur": "Luxe & consommation",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ITX.MC": {
+   "secteur": "Luxe & consommation",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "OR.PA": {
+   "secteur": "Luxe & consommation",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "COST": {
+   "secteur": "Luxe & consommation",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "WMT": {
+   "secteur": "Luxe & consommation",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "JPM": {
+   "secteur": "Banques & finance",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "GS": {
+   "secteur": "Banques & finance",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "MS": {
+   "secteur": "Banques & finance",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "BRK-B": {
+   "secteur": "Banques & finance",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "BLK": {
+   "secteur": "Banques & finance",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "BNP.PA": {
+   "secteur": "Banques & finance",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "GLE.PA": {
+   "secteur": "Banques & finance",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SAN.MC": {
+   "secteur": "Banques & finance",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "UCG.MI": {
+   "secteur": "Banques & finance",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "HSBA.L": {
+   "secteur": "Banques & finance",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "8306.T": {
+   "secteur": "Banques & finance",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "HDFCBANK.NS": {
+   "secteur": "Banques & finance",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "XOM": {
+   "secteur": "Énergie & matières premières",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "CVX": {
+   "secteur": "Énergie & matières premières",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "FCX": {
+   "secteur": "Énergie & matières premières",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "NEM": {
+   "secteur": "Énergie & matières premières",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "AEM": {
+   "secteur": "Énergie & matières premières",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "TTE.PA": {
+   "secteur": "Énergie & matières premières",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SHEL.L": {
+   "secteur": "Énergie & matières premières",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "RELIANCE.NS": {
+   "secteur": "Énergie & matières premières",
+   "region": "Asie",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "CAT": {
+   "secteur": "Industrie",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "DE": {
+   "secteur": "Industrie",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "HON": {
+   "secteur": "Industrie",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "AI.PA": {
+   "secteur": "Industrie",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "DG.PA": {
+   "secteur": "Industrie",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "ATCO-A.ST": {
+   "secteur": "Industrie",
+   "region": "Europe",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "BTC-USD": {
+   "secteur": "Cryptomonnaies",
+   "region": "Monde",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "ETH-USD": {
+   "secteur": "Cryptomonnaies",
+   "region": "Monde",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  },
+  "SOL-USD": {
+   "secteur": "Cryptomonnaies",
+   "region": "Monde",
+   "source": "univers",
+   "ajout": "2026-10-09"
+  },
+  "SPCX": {
+   "secteur": "À classer",
+   "region": "Amérique du Nord",
+   "source": "perso",
+   "ajout": "2026-10-09"
+  }
+ },
+ "reserve": {
+  "AI": {
+   "secteur": "Logiciel, cloud & IA",
+   "region": "Amérique du Nord",
+   "source": "univers",
+   "ajout": "2026-10-09",
+   "retrait": "2026-10-09",
+   "raison": "valorisation trop faible (1.8 Md$ < 2 Md$)"
+  }
+ },
+ "notes": {
+  "MRVL": [
+   92.1
+  ],
+  "6669.TW": [
+   91.9
+  ],
+  "NVDA": [
+   90.9
+  ],
+  "ANET": [
+   90.1
+  ],
+  "TSM": [
+   87.2
+  ],
+  "COHR": [
+   87.1
+  ],
+  "ASML.AS": [
+   87.0
+  ],
+  "MSFT": [
+   86.7
+  ],
+  "ESTC": [
+   86.0
+  ],
+  "PLTR": [
+   85.8
+  ],
+  "ADI": [
+   85.4
+  ],
+  "V": [
+   85.2
+  ],
+  "LLY": [
+   85.1
+  ],
+  "2308.TW": [
+   85.0
+  ],
+  "FTNT": [
+   85.0
+  ],
+  "ZBRA": [
+   84.8
+  ],
+  "CAP.PA": [
+   84.8
+  ],
+  "TER": [
+   84.6
+  ],
+  "MPWR": [
+   84.4
+  ],
+  "ASM.AS": [
+   84.4
+  ],
+  "6857.T": [
+   84.3
+  ],
+  "AFRM": [
+   84.1
+  ],
+  "AMZN": [
+   84.0
+  ],
+  "MU": [
+   84.0
+  ],
+  "8035.T": [
+   83.9
+  ],
+  "CLS": [
+   83.6
+  ],
+  "XOM": [
+   83.4
+  ],
+  "4062.T": [
+   83.4
+  ],
+  "SHOP": [
+   83.3
+  ],
+  "FLEX": [
+   83.0
+  ],
+  "6701.T": [
+   82.9
+  ],
+  "LRCX": [
+   82.8
+  ],
+  "AVGO": [
+   82.8
+  ],
+  "CRDO": [
+   82.4
+  ],
+  "ABBV": [
+   82.3
+  ],
+  "SMCI": [
+   82.0
+  ],
+  "NU": [
+   81.9
+  ],
+  "LITE": [
+   81.7
+  ],
+  "ALAB": [
+   81.6
+  ],
+  "PANW": [
+   81.4
+  ],
+  "6501.T": [
+   81.4
+  ],
+  "GOOGL": [
+   81.4
+  ],
+  "AMD": [
+   81.3
+  ],
+  "6702.T": [
+   81.3
+  ],
+  "IOT": [
+   80.6
+  ],
+  "3711.TW": [
+   80.6
+  ],
+  "6723.T": [
+   80.6
+  ],
+  "AMAT": [
+   80.4
+  ],
+  "MELI": [
+   80.1
+  ],
+  "STMPA.PA": [
+   80.1
+  ],
+  "CRWD": [
+   80.0
+  ],
+  "6981.T": [
+   79.8
+  ],
+  "PWR": [
+   79.8
+  ],
+  "REL.L": [
+   79.6
+  ],
+  "NBIS": [
+   79.6
+  ],
+  "BE": [
+   79.6
+  ],
+  "TXN": [
+   79.4
+  ],
+  "QLYS": [
+   79.4
+  ],
+  "6273.T": [
+   79.4
+  ],
+  "SNPS": [
+   79.3
+  ],
+  "GTLB": [
+   78.5
+  ],
+  "DSY.PA": [
+   78.4
+  ],
+  "IFX.DE": [
+   78.2
+  ],
+  "TEAM": [
+   78.1
+  ],
+  "KLAC": [
+   78.0
+  ],
+  "WKL.AS": [
+   77.4
+  ],
+  "DDOG": [
+   77.3
+  ],
+  "OKTA": [
+   77.1
+  ],
+  "ETN": [
+   76.2
+  ],
+  "S": [
+   76.2
+  ],
+  "ZS": [
+   76.2
+  ],
+  "MA": [
+   76.2
+  ],
+  "ENTG": [
+   76.0
+  ],
+  "SHEL.L": [
+   75.6
+  ],
+  "ATCO-A.ST": [
+   75.5
+  ],
+  "GEV": [
+   75.4
+  ],
+  "SAP.DE": [
+   75.2
+  ],
+  "META": [
+   74.9
+  ],
+  "BLK": [
+   74.8
+  ],
+  "SPCX": [
+   74.7
+  ],
+  "6920.T": [
+   74.4
+  ],
+  "NOK": [
+   74.4
+  ],
+  "NOD.OL": [
+   74.0
+  ],
+  "CEG": [
+   74.0
+  ],
+  "6861.T": [
+   73.7
+  ],
+  "TMO": [
+   73.6
+  ],
+  "CIEN": [
+   73.6
+  ],
+  "NEM.DE": [
+   73.5
+  ],
+  "NOW": [
+   73.5
+  ],
+  "SGE.L": [
+   73.4
+  ],
+  "VRNS": [
+   73.3
+  ],
+  "TENB": [
+   73.3
+  ],
+  "EQIX": [
+   72.4
+  ],
+  "AAPL": [
+   71.8
+  ],
+  "7735.T": [
+   71.6
+  ],
+  "CSU.TO": [
+   70.8
+  ],
+  "FCX": [
+   70.4
+  ],
+  "SOI.PA": [
+   69.9
+  ],
+  "PYPL": [
+   69.9
+  ],
+  "CRM": [
+   69.9
+  ],
+  "ROK": [
+   69.8
+  ],
+  "2454.TW": [
+   69.8
+  ],
+  "LR.PA": [
+   69.6
+  ],
+  "ADSK": [
+   69.6
+  ],
+  "UNH": [
+   69.1
+  ],
+  "PATH": [
+   68.2
+  ],
+  "VST": [
+   68.2
+  ],
+  "SNDK": [
+   68.0
+  ],
+  "ISRG": [
+   67.4
+  ],
+  "TLN": [
+   67.4
+  ],
+  "CFR.SW": [
+   67.4
+  ],
+  "SIE.DE": [
+   67.3
+  ],
+  "SNOW": [
+   67.3
+  ],
+  "CVX": [
+   66.8
+  ],
+  "CDNS": [
+   66.8
+  ],
+  "ABNB": [
+   66.6
+  ],
+  "MCHP": [
+   66.6
+  ],
+  "PRY.MI": [
+   66.6
+  ],
+  "NET": [
+   66.4
+  ],
+  "ON": [
+   66.0
+  ],
+  "XYZ": [
+   64.7
+  ],
+  "NOVN.SW": [
+   64.6
+  ],
+  "000660.KS": [
+   64.4
+  ],
+  "AI.PA": [
+   64.4
+  ],
+  "DASH": [
+   64.4
+  ],
+  "SPOT": [
+   64.2
+  ],
+  "DLR": [
+   64.2
+  ],
+  "6146.T": [
+   64.1
+  ],
+  "HOOD": [
+   63.8
+  ],
+  "MELE.BR": [
+   63.8
+  ],
+  "005930.KS": [
+   63.8
+  ],
+  "NEM": [
+   62.9
+  ],
+  "IBKR": [
+   62.8
+  ],
+  "MSTR": [
+   62.2
+  ],
+  "COST": [
+   61.6
+  ],
+  "8306.T": [
+   61.4
+  ],
+  "DE": [
+   61.4
+  ],
+  "NXPI": [
+   61.0
+  ],
+  "WDAY": [
+   61.0
+  ],
+  "ARGX": [
+   61.0
+  ],
+  "SKHY": [
+   61.0
+  ],
+  "SAN.MC": [
+   60.8
+  ],
+  "ARM": [
+   60.6
+  ],
+  "INTC": [
+   60.6
+  ],
+  "2317.TW": [
+   60.3
+  ],
+  "REGN": [
+   60.2
+  ],
+  "SOL-USD": [
+   60.0
+  ],
+  "BTC-USD": [
+   59.5
+  ],
+  "AIXA.DE": [
+   59.4
+  ],
+  "AI": [
+   59.3
+  ],
+  "TTE.PA": [
+   58.8
+  ],
+  "JD": [
+   58.8
+  ],
+  "ORCL": [
+   58.7
+  ],
+  "TSLA": [
+   58.7
+  ],
+  "IONQ": [
+   58.2
+  ],
+  "VRTX": [
+   58.1
+  ],
+  "9984.T": [
+   58.0
+  ],
+  "MDB": [
+   57.9
+  ],
+  "GM": [
+   57.8
+  ],
+  "RDDT": [
+   57.8
+  ],
+  "MTX.DE": [
+   57.6
+  ],
+  "JPM": [
+   57.6
+  ],
+  "CAT": [
+   57.2
+  ],
+  "AEM": [
+   56.3
+  ],
+  "BRK-B": [
+   56.0
+  ],
+  "ITX.MC": [
+   55.9
+  ],
+  "WTC.AX": [
+   55.7
+  ],
+  "SYM": [
+   55.6
+  ],
+  "STX": [
+   55.5
+  ],
+  "SIVE.ST": [
+   55.4
+  ],
+  "BNP.PA": [
+   55.4
+  ],
+  "EMBJ": [
+   55.3
+  ],
+  "INTU": [
+   55.2
+  ],
+  "JNJ": [
+   55.0
+  ],
+  "RACE": [
+   54.6
+  ],
+  "CRWV": [
+   54.1
+  ],
+  "RKLB": [
+   54.1
+  ],
+  "SONY": [
+   54.0
+  ],
+  "285A.T": [
+   53.8
+  ],
+  "2382.TW": [
+   53.8
+  ],
+  "BHARTIARTL.NS": [
+   53.5
+  ],
+  "JBL": [
+   53.4
+  ],
+  "QCOM": [
+   53.0
+  ],
+  "WMT": [
+   53.0
+  ],
+  "TEM": [
+   52.9
+  ],
+  "ADYEN.AS": [
+   52.3
+  ],
+  "WDC": [
+   52.0
+  ],
+  "MNDY": [
+   51.8
+  ],
+  "ENR.DE": [
+   51.8
+  ],
+  "RR.L": [
+   51.8
+  ],
+  "HSBA.L": [
+   51.7
+  ],
+  "SAF.PA": [
+   51.6
+  ],
+  "6954.T": [
+   51.0
+  ],
+  "OR.PA": [
+   50.5
+  ],
+  "HWM": [
+   50.2
+  ],
+  "NRG": [
+   50.0
+  ],
+  "ETH-USD": [
+   50.0
+  ],
+  "6506.T": [
+   49.9
+  ],
+  "AIR.PA": [
+   49.8
+  ],
+  "MS": [
+   49.7
+  ],
+  "WIX": [
+   49.6
+  ],
+  "GS": [
+   48.6
+  ],
+  "ABBN.SW": [
+   48.2
+  ],
+  "HUBS": [
+   48.0
+  ],
+  "PDD": [
+   47.9
+  ],
+  "TMUS": [
+   47.7
+  ],
+  "AXON": [
+   47.4
+  ],
+  "ASTS": [
+   47.4
+  ],
+  "SE": [
+   47.0
+  ],
+  "UBER": [
+   46.8
+  ],
+  "VRT": [
+   45.8
+  ],
+  "TCS.NS": [
+   45.2
+  ],
+  "UCG.MI": [
+   44.8
+  ],
+  "DG.PA": [
+   44.4
+  ],
+  "NEX.PA": [
+   44.2
+  ],
+  "RTX": [
+   43.4
+  ],
+  "688256.SS": [
+   43.3
+  ],
+  "CCJ": [
+   43.2
+  ],
+  "BESI.AS": [
+   43.0
+  ],
+  "HON": [
+   42.0
+  ],
+  "XRO.AX": [
+   42.0
+  ],
+  "PRX.AS": [
+   41.8
+  ],
+  "ADBE": [
+   41.8
+  ],
+  "GRAB": [
+   41.4
+  ],
+  "NPN.JO": [
+   41.2
+  ],
+  "AZN": [
+   41.0
+  ],
+  "GE": [
+   40.9
+  ],
+  "BABA": [
+   40.5
+  ],
+  "GLE.PA": [
+   40.2
+  ],
+  "SU.PA": [
+   39.6
+  ],
+  "RNO.PA": [
+   39.6
+  ],
+  "BA.L": [
+   39.4
+  ],
+  "HO.PA": [
+   39.3
+  ],
+  "TM": [
+   38.9
+  ],
+  "4568.T": [
+   38.6
+  ],
+  "SAN.PA": [
+   38.1
+  ],
+  "RELIANCE.NS": [
+   37.6
+  ],
+  "3690.HK": [
+   37.3
+  ],
+  "NFLX": [
+   37.0
+  ],
+  "MC.PA": [
+   36.9
+  ],
+  "HDFCBANK.NS": [
+   36.6
+  ],
+  "SOFI": [
+   36.6
+  ],
+  "COIN": [
+   36.4
+  ],
+  "APP": [
+   36.3
+  ],
+  "035420.KS": [
+   36.2
+  ],
+  "VOW3.DE": [
+   35.2
+  ],
+  "STLAM.MI": [
+   35.0
+  ],
+  "LMT": [
+   34.1
+  ],
+  "CHKP": [
+   34.0
+  ],
+  "267260.KS": [
+   33.9
+  ],
+  "012450.KS": [
+   33.6
+  ],
+  "OKLO": [
+   32.9
+  ],
+  "NVO": [
+   32.9
+  ],
+  "LDO.MI": [
+   32.8
+  ],
+  "HCLTECH.NS": [
+   32.7
+  ],
+  "INFY": [
+   31.9
+  ],
+  "RHM.DE": [
+   31.8
+  ],
+  "0700.HK": [
+   31.8
+  ],
+  "MBG.DE": [
+   30.9
+  ],
+  "7011.T": [
+   30.6
+  ],
+  "BSX": [
+   30.4
+  ],
+  "1024.HK": [
+   30.4
+  ],
+  "0981.HK": [
+   30.3
+  ],
+  "IBM": [
+   29.8
+  ],
+  "RGTI": [
+   29.6
+  ],
+  "005380.KS": [
+   28.7
+  ],
+  "BIDU": [
+   28.6
+  ],
+  "RMS.PA": [
+   28.4
+  ],
+  "BMW.DE": [
+   27.6
+  ],
+  "1810.HK": [
+   27.5
+  ],
+  "ERIC": [
+   26.8
+  ],
+  "TTD": [
+   24.2
+  ],
+  "LI": [
+   24.0
+  ],
+  "1211.HK": [
+   23.5
+  ],
+  "SOUN": [
+   23.4
+  ],
+  "XPEV": [
+   23.3
+  ],
+  "SMR": [
+   20.9
+  ],
+  "QBTS": [
+   20.2
+  ]
+ },
+ "absences": {
+  "ROG.SW": 1
+ },
+ "journal": [
+  {
+   "date": "2026-10-09",
+   "action": "Retrait",
+   "ticker": "AI",
+   "raison": "valorisation trop faible (1.8 Md$ < 2 Md$)"
+  }
+ ]
+}
