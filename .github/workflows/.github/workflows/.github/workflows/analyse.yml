@@ -1,0 +1,41 @@
+name: Publier l'analyse de Claude
+
+# Se déclenche quand la tâche Claude du matin dépose son analyse dans le dépôt
+on:
+  push:
+    branches: [main]
+    paths:
+      - "rapports/analyse_*.md"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: agent-trading
+  cancel-in-progress: false
+
+jobs:
+  site:
+    if: ${{ vars.RAPPORT_URL != '' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Construire le site
+        run: python trading_agent.py --site
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploiement
+        uses: actions/deploy-pages@v4
